@@ -1,3 +1,40 @@
 body {
     background: rgb(182, 232, 182);
+    border-style: double;
+    border-color: white;
+    border-width: 10pt;
   }
+h1 {
+    color: green;
+    font-family: "Lucida", cursive;
+    font-size: 35pt;
+    text-align: center;
+}
+h2 {
+    color: whitesmoke;
+    font-family: "lucida", cursive;
+    font-size: 20pt;
+}
+p1 {
+    color: black;
+    font-size: 13pt;
+    font-family: "papyrus", fantasy;
+}
+p {
+    color: black;
+    font-family: "papyrus", fantasy;
+    font-size: 12pt;
+}
+.wrapper {
+    margin: 0 auto;
+    width:60%;
+    padding-bottom: 40px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-color:khaki;
+    border-width: 5pt;
+}
